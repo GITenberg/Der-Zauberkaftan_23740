@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26008
     wikipedia: http://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_Miksz%C3%A1th
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23740#Der-Zauberkaftan
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2007-12-05'
 gutenberg_type: Text
